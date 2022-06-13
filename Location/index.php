@@ -44,7 +44,7 @@
           <div id="map"></div>
     </div>
 
-          <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwXThDaYgYgDZb1a7Vpgy86U8KlXLwRN0&libraries=places"></script>
+          <script src="https://maps.googleapis.com/maps/api/js?key=apikey&libraries=places"></script>
 
 
 
